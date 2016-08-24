@@ -1,6 +1,6 @@
 # consul-tools
 
-./checkConsulServiceHealth.sh
+$ ./checkConsulServiceHealth.sh
 Checking service: api - healthy
 Checking service: consul - healthy
 Checking service: consul_exporter - healthy
